@@ -6,6 +6,3 @@ build/
 htmlcov/
 sqlite_worker/__pycache__/
 venv
-*.db
-*.db-shm
-*.db-wal
